@@ -11,11 +11,12 @@
 ## Dependency Used
 
 [styled-components](https://www.npmjs.com/package/styled-components)
+<br>
 [axios](https://www.npmjs.com/package/axios)
 
 ## API
 
-[OMDB API](https://www.omdbapi.com/)
+[OMDB API(The Open Movie Database)](https://www.omdbapi.com/)
 
 ## Features
 
