@@ -6,7 +6,16 @@
 
 ## Tech and Language Used
 
-**React, JavaScript, HTML, CSS, styled-components, axios, OMDB API**
+**React, JavaScript, HTML, CSS**
+
+## Dependency Used
+
+[styled-components](https://www.npmjs.com/package/styled-components)
+[axios](https://www.npmjs.com/package/axios)
+
+## API
+
+[OMDB API](https://www.omdbapi.com/)
 
 ## Features
 
