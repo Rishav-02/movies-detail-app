@@ -31,7 +31,14 @@
 
 *Debouncing prevents extra activations or slow functions from triggering too often. We will only execute the most recent user action if the action is continuously invoked. Using the debounce React Hook will reduce the unnecessary API calls to our server and optimize our application for better performance.*
 
+### How to use OMDB API
 
+*Step 1* **Open the OMDB website.** 
+*Step 2* **Click on three line menu icon and select API Key**
+*Step 3* **Generate API Key section open and Choose the Free option(1000 daily limit)**
+*Step 4* **Fill the asked detail and Submit it**
+*Step 5* **API Key will be sent to your given Email Id**
+*Step 6* **Use your API Key to get data**
 
 ## Getting Started
 
@@ -53,7 +60,7 @@ npm install axios
 Finally clone this repository, install dependencies and run the local server
 
 ```bash
-git clone https://github.com/Rishav-02/Movies-Detail-App.git
+git clone https://github.com/Rishav-02/movies-detail-app.git
 ```
 
 ```bash
