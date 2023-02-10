@@ -33,12 +33,17 @@
 
 ### How to use OMDB API
 
-*Step 1* **Open the OMDB website.** 
-*Step 2* **Click on three line menu icon and select API Key**
-*Step 3* **Generate API Key section open and Choose the Free option(1000 daily limit)**
-*Step 4* **Fill the asked detail and Submit it**
-*Step 5* **API Key will be sent to your given Email Id**
-*Step 6* **Use your API Key to get data**
+*Step 1:* **Open the OMDB website.** 
+
+*Step 2:* **Click on three line menu icon and select API Key**
+
+*Step 3:* **Generate API Key section open and Choose the Free option(1000 daily limit)**
+
+*Step 4:* **Fill the asked detail and Submit it**
+
+*Step 5:* **API Key will be sent to your given Email Id**
+
+*Step 6:* **Use your API Key to fetch data**
 
 ## Getting Started
 
