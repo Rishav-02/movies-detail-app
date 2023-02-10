@@ -8,13 +8,13 @@
 
 **React, JavaScript, HTML, CSS**
 
-## Dependency Used
+### Dependency Used
 
 [styled-components](https://www.npmjs.com/package/styled-components)
 <br>
 [axios](https://www.npmjs.com/package/axios)
 
-## API
+### API
 
 [OMDB API(The Open Movie Database)](https://www.omdbapi.com/)
 
@@ -29,7 +29,9 @@
 - **A cross icon to remove the selected movie detail**
 
 
+<hr>
 *Debouncing prevents extra activations or slow functions from triggering too often. We will only execute the most recent user action if the action is continuously invoked. Using the debounce React Hook will reduce the unnecessary API calls to our server and optimize our application for better performance.*
+<hr>
 
 ### How to use OMDB API
 
@@ -37,13 +39,14 @@
 
 *Step 2:* **Click on three line menu icon and select API Key**
 
-*Step 3:* **Generate API Key section open and Choose the Free option(1000 daily limit)**
+*Step 3:* **Generate API Key section will be open and Choose the Free option(1000 daily limit)**
 
 *Step 4:* **Fill the asked detail and Submit it**
 
 *Step 5:* **API Key will be sent to your given Email Id**
 
 *Step 6:* **Use your API Key to fetch data**
+<br>
 
 ## Getting Started
 
