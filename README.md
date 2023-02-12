@@ -4,6 +4,9 @@
 
 <hr>
 
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Rishav-02/movies-detail-app?color=yellow&style=flat-square"> <img src="https://img.shields.io/badge/Netlify-success-green"> <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rishav-02/movies-detail-app?style=flat-square">
+
+
 *Header and Search Bar*
 
 <img src="https://user-images.githubusercontent.com/100300441/218246663-82155c56-1088-47bb-9e10-d54223f58575.png">
