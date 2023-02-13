@@ -34,7 +34,7 @@
 
 ## Tech and Language Used
 
-**React, JavaScript, HTML, CSS**
+<img src="https://img.shields.io/badge/React-Library-blue"> <img src="https://img.shields.io/badge/JavaScript-Language-yellow"> <img src="https://img.shields.io/badge/HTML5-Markup%20Language-orange"> <img src="https://img.shields.io/badge/CSS3-Style-blue"> <img src="https://img.shields.io/badge/API-OMDB-green">
 
 ### Dependency Used
 
